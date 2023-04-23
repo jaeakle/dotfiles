@@ -1,0 +1,3 @@
+#!/bin/bash
+cp /home/jack/automation/desktopXresources/.Xresources /home/jack/.Xresources
+envycontrol -s nvidia

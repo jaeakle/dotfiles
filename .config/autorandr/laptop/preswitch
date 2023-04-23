@@ -1,0 +1,3 @@
+#!/bin/bash
+cp ~/automation/laptopXresources/.Xresources ~/.Xresources
+envycontrol -s integrated

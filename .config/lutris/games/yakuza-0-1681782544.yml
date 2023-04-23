@@ -1,0 +1,5 @@
+game:
+  exe: /home/jack/Games/Yakuza 0/media/Yakuza0.exe
+system: {}
+wine:
+  autoconf_joypad: true

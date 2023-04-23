@@ -1,0 +1,1818 @@
+ices
+[2023-04-22 20:46:36.465] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:38.854] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:46:38.858] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:46:39.467] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:39.467] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:39.467] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:39.467] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:39.467] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:42.470] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:42.470] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:42.470] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:42.470] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:42.471] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:43.853] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:46:43.856] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:46:45.473] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:45.474] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:45.474] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:45.474] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:45.474] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:48.477] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:48.477] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:48.477] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:48.477] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:48.477] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:48.852] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:46:48.856] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:46:51.480] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:51.480] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:51.480] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:51.480] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:51.481] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:53.852] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:46:53.855] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:46:54.483] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:54.484] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:54.484] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:54.484] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:54.484] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:57.487] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:57.487] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:57.487] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:57.487] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:46:57.487] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:46:58.852] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:46:58.858] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:00.490] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:00.490] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:00.490] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:00.491] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:00.491] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:03.493] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:03.494] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:03.494] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:03.494] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:03.494] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:03.854] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:03.859] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:06.497] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:06.497] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:06.497] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:06.497] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:06.497] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:08.854] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:08.858] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:09.500] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:09.500] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:09.500] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:09.500] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:09.500] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:12.503] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:12.504] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:12.504] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:12.504] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:12.504] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:13.852] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:13.857] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:15.504] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:15.504] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:15.504] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:15.504] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:15.504] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:18.507] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:18.507] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:18.507] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:18.507] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:18.507] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:18.853] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:18.856] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:21.510] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:21.510] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:21.510] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:21.510] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:21.510] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:23.853] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:23.859] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:24.513] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:24.514] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:24.514] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:24.514] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:24.514] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:27.517] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:27.517] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:27.517] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:27.517] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:27.517] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:28.853] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:28.856] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:30.520] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:30.520] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:30.520] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:30.521] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:30.521] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:33.523] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:33.524] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:33.524] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:33.524] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:33.524] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:33.860] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:33.864] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:36.527] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:36.527] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:36.527] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:36.527] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:36.527] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:38.866] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:38.869] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:39.530] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:39.530] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:39.530] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:39.530] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:39.530] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:42.533] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:42.534] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:42.534] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:42.534] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:42.534] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:43.874] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:43.878] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:45.537] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:45.537] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:45.537] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:45.537] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:45.537] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:48.540] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:48.540] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:48.540] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:48.540] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:48.541] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:48.882] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:48.885] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:51.543] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:51.544] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:51.544] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:51.544] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:51.544] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:53.890] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:53.894] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:47:54.547] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:54.547] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:54.547] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:54.547] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:54.547] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:57.550] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:57.550] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:57.550] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:57.551] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:47:57.551] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:47:58.902] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:47:58.906] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:00.554] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:00.554] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:00.554] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:00.554] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:00.554] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:03.557] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:03.557] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:03.557] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:03.557] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:03.557] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:03.909] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:03.912] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:06.560] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:06.560] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:06.560] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:06.560] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:06.560] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:08.909] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:08.913] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:09.563] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:09.564] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:09.564] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:09.564] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:09.564] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:10.968] [114633] (discord.cpp:658): JS console: ["%c[ClientStateStore]","Gap detected in read state versions","206542","206544","[object Object]"]
+[2023-04-22 20:48:12.565] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:12.565] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:12.565] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:12.565] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:12.565] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:13.909] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:13.912] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:15.567] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:15.567] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:15.567] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:15.567] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:15.567] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:18.569] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:18.569] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:18.569] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:18.569] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:18.569] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:18.909] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:18.912] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:21.572] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:21.572] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:21.572] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:21.572] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:21.573] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:23.911] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:23.914] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:24.573] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:24.574] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:24.574] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:24.574] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:24.574] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:27.577] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:27.577] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:27.577] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:27.577] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:27.577] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:28.909] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:28.916] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:30.580] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:30.580] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:30.581] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:30.581] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:30.581] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:33.583] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:33.584] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:33.584] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:33.584] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:33.584] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:33.910] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:33.915] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:36.587] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:36.587] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:36.587] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:36.587] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:36.587] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:38.909] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:38.913] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:39.590] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:39.590] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:39.590] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:39.590] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:39.591] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:42.594] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:42.594] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:42.594] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:42.594] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:42.594] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:43.910] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:43.914] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:45.597] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:45.597] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:45.597] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:45.597] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:45.597] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:48.600] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:48.600] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:48.600] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:48.600] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:48.601] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:48.918] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:48.922] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:51.603] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:51.604] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:51.604] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:51.604] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:51.604] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:53.927] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:53.931] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:48:54.607] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:54.607] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:54.607] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:54.607] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:54.607] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:57.610] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:57.610] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:57.610] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:57.610] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:48:57.611] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:48:58.937] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:48:58.943] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:00.613] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:00.614] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:00.614] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:00.614] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:00.614] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:03.617] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:03.617] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:03.617] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:03.617] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:03.617] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:03.936] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:03.942] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:06.620] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:06.620] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:06.620] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:06.620] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:06.620] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:08.949] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:08.952] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:09.623] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:09.624] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:09.624] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:09.624] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:09.624] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:12.627] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:12.627] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:12.627] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:12.627] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:12.627] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:13.944] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:13.947] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:15.630] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:15.630] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:15.630] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:15.630] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:15.630] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:18.634] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:18.634] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:18.634] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:18.634] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:18.634] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:18.944] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:18.948] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:21.637] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:21.637] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:21.637] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:21.637] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:21.637] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:23.947] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:23.951] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:24.640] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:24.640] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:24.640] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:24.640] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:24.640] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:27.643] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:27.644] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:27.644] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:27.644] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:27.644] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:28.948] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:28.951] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:30.647] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:30.647] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:30.647] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:30.647] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:30.647] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:33.650] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:33.650] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:33.650] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:33.650] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:33.650] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:33.947] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:33.950] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:36.653] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:36.654] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:36.654] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:36.654] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:36.654] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:38.947] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:38.951] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:39.657] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:39.657] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:39.657] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:39.657] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:39.657] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:42.660] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:42.660] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:42.660] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:42.660] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:42.660] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:43.952] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:43.956] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:45.664] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:45.664] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:45.664] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:45.664] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:45.664] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:48.667] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:48.667] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:48.667] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:48.667] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:48.667] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:48.950] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:48.954] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:51.670] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:51.670] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:51.670] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:51.670] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:51.670] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:53.952] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:53.956] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:49:54.674] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:54.674] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:54.674] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:54.674] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:54.674] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:57.677] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:57.677] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:57.677] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:57.677] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:49:57.677] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:49:58.950] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:49:58.954] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:00.680] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:00.680] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:00.680] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:00.680] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:00.681] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:03.684] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:03.684] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:03.684] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:03.684] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:03.684] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:03.951] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:03.956] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:06.687] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:06.687] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:06.687] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:06.687] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:06.687] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:08.951] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:08.954] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:09.690] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:09.690] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:09.690] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:09.690] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:09.690] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:12.693] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:12.694] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:12.694] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:12.694] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:12.694] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:13.954] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:13.958] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:15.697] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:15.697] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:15.697] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:15.697] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:15.697] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:18.700] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:18.700] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:18.700] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:18.700] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:18.700] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:18.953] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:18.957] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:21.704] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:21.704] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:21.704] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:21.704] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:21.704] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:23.957] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:23.962] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:24.707] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:24.707] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:24.707] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:24.707] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:24.707] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:27.710] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:27.710] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:27.710] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:27.710] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:27.711] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:28.958] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:28.962] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:30.713] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:30.714] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:30.714] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:30.714] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:30.714] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:33.717] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:33.717] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:33.717] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:33.717] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:33.717] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:33.957] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:33.960] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:36.720] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:36.720] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:36.720] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:36.720] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:36.720] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:38.957] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:38.961] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:39.723] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:39.724] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:39.724] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:39.724] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:39.724] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:42.727] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:42.727] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:42.727] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:42.727] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:42.727] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:43.959] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:43.965] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:45.730] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:45.730] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:45.730] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:45.730] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:45.730] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:48.734] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:48.734] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:48.734] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:48.734] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:48.734] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:48.961] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:48.965] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:51.737] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:51.737] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:51.737] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:51.737] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:51.737] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:53.961] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:53.966] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:50:54.740] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:54.740] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:54.740] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:54.740] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:54.741] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:57.743] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:57.744] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:57.744] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:57.744] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:50:57.744] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:50:58.960] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:50:58.969] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:00.747] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:00.747] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:00.747] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:00.747] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:00.747] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:03.750] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:03.750] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:03.750] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:03.750] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:03.750] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:03.962] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:03.966] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:06.753] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:06.754] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:06.754] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:06.754] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:06.754] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:08.963] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:08.966] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:09.757] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:09.757] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:09.757] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:09.757] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:09.757] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:12.758] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:12.758] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:12.758] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:12.758] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:12.758] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:13.965] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:13.970] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:15.760] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:15.760] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:15.760] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:15.760] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:15.760] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:18.764] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:18.764] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:18.764] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:18.764] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:18.764] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:18.966] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:18.970] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:21.767] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:21.767] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:21.767] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:21.767] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:21.767] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:23.967] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:23.970] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:24.770] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:24.770] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:24.770] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:24.770] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:24.770] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:27.773] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:27.774] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:27.774] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:27.774] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:27.774] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:28.968] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:28.971] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:30.777] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:30.777] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:30.777] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:30.777] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:30.777] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:33.780] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:33.780] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:33.780] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:33.780] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:33.780] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:33.968] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:33.972] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:36.783] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:36.784] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:36.784] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:36.784] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:36.784] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:38.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:38.975] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:39.785] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:39.786] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:39.786] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:39.786] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:39.786] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:42.787] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:42.787] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:42.787] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:42.787] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:42.787] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:43.970] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:43.974] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:45.790] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:45.790] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:45.790] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:45.790] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:45.791] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:48.793] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:48.794] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:48.794] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:48.794] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:48.794] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:48.970] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:48.973] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:51.797] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:51.797] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:51.797] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:51.797] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:51.797] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:53.970] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:53.977] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:51:54.800] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:54.800] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:54.800] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:54.801] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:54.801] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:57.803] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:57.804] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:57.804] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:57.804] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:51:57.804] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:51:58.970] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:51:58.974] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:00.807] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:00.807] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:00.807] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:00.807] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:00.807] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:03.810] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:03.810] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:03.810] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:03.811] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:03.811] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:03.974] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:03.978] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:06.813] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:06.814] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:06.814] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:06.814] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:06.814] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:08.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:08.974] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:09.817] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:09.817] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:09.817] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:09.817] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:09.817] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:12.820] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:12.820] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:12.820] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:12.820] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:12.820] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:13.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:13.975] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:15.823] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:15.824] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:15.824] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:15.824] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:15.824] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:18.827] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:18.827] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:18.827] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:18.827] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:18.827] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:18.972] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:18.976] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:21.830] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:21.830] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:21.830] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:21.830] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:21.830] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:23.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:23.976] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:24.833] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:24.834] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:24.834] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:24.834] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:24.834] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:27.837] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:27.837] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:27.837] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:27.837] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:27.837] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:28.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:28.974] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:30.840] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:30.840] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:30.840] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:30.840] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:30.840] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:33.843] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:33.844] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:33.844] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:33.844] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:33.844] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:33.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:33.976] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:36.847] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:36.847] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:36.847] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:36.847] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:36.847] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:38.974] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:38.977] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:39.849] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:39.849] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:39.850] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:39.850] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:39.850] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:42.850] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:42.850] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:42.851] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:42.851] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:42.851] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:43.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:43.975] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:45.854] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:45.854] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:45.854] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:45.854] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:45.854] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:48.857] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:48.857] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:48.857] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:48.857] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:48.857] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:48.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:48.974] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:51.860] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:51.860] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:51.860] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:51.860] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:51.861] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:53.975] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:53.981] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:52:54.863] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:54.864] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:54.864] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:54.864] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:54.864] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:57.867] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:57.867] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:57.867] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:57.867] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:52:57.867] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:52:58.970] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:52:58.974] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:00.870] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:00.870] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:00.870] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:00.870] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:00.871] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:03.873] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:03.874] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:03.874] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:03.874] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:03.874] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:03.971] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:03.975] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:06.877] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:06.877] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:06.877] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:06.877] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:06.877] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:08.973] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:08.976] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:09.880] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:09.880] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:09.880] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:09.880] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:09.881] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:12.883] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:12.884] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:12.884] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:12.884] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:12.884] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:13.975] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:13.978] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:15.887] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:15.887] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:15.887] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:15.887] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:15.887] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:18.890] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:18.890] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:18.890] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:18.890] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:18.891] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:18.975] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:18.978] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:21.893] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:21.894] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:21.894] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:21.894] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:21.894] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:23.974] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:23.977] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:24.897] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:24.897] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:24.897] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:24.897] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:24.897] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:27.900] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:27.900] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:27.900] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:27.900] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:27.900] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:28.975] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:28.979] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:30.903] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:30.904] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:30.904] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:30.904] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:30.904] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:33.907] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:33.907] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:33.907] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:33.907] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:33.907] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:33.977] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:33.981] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:36.909] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:36.909] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:36.909] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:36.909] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:36.910] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:38.987] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:38.991] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:39.910] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:39.910] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:39.910] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:39.910] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:39.910] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:42.913] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:42.914] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:42.914] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:42.914] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:42.914] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:43.991] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:43.996] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:45.916] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:45.917] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:45.917] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:45.917] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:45.917] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:48.917] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:48.917] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:48.917] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:48.917] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:48.917] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:49.001] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:49.005] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:51.920] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:51.920] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:51.920] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:51.920] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:51.920] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:54.000] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:54.004] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:53:54.923] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:54.924] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:54.924] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:54.924] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:54.924] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:57.927] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:57.927] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:57.927] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:57.927] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:53:57.927] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:53:59.000] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:53:59.003] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:54:00.929] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:00.929] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:00.929] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:00.929] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:00.929] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:03.931] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:03.931] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:03.931] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:03.931] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:03.931] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:04.003] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:54:04.007] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:54:06.933] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:06.934] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:06.934] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:06.934] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:06.934] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:09.002] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:54:09.006] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:54:09.937] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:09.937] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:09.937] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:09.937] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:09.937] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:12.940] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:12.940] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:12.940] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:12.940] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:12.940] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:14.002] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:54:14.006] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:54:15.943] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:15.944] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:15.944] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:15.944] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:15.944] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:18.947] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:18.947] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:18.947] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:18.947] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:18.947] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:19.002] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"]
+[2023-04-22 20:54:19.004] [114633] (discord.cpp:658): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 983379"]
+[2023-04-22 20:54:21.950] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:21.950] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:21.950] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:21.950] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:21.950] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:24.002] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games",""]
+[2023-04-22 20:54:24.953] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:24.954] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:24.954] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:24.954] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:24.954] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:27.955] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:27.955] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:27.955] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:27.955] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:27.955] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:30.957] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:30.957] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:30.957] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:30.957] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:30.957] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:33.960] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:33.960] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:33.960] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:33.960] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:33.960] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:36.961] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:36.961] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:36.961] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:36.961] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:36.961] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:39.024] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games","[object Object]"]
+[2023-04-22 20:54:39.032] [114633] (discord.cpp:658): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2023-04-22 20:54:39.963] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:39.964] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:39.964] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:39.964] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:39.964] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:42.967] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:42.967] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:42.967] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:42.967] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:42.967] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:45.970] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:45.970] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:45.970] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:45.970] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:45.970] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:48.973] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:48.973] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:48.973] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:48.973] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:48.973] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:51.973] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:51.974] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:51.974] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:51.974] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:51.974] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:54.975] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:54.975] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:54.975] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:54.975] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:54.975] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:57.977] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:57.977] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:57.977] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:54:57.977] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:54:57.977] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:00.980] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:00.980] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:00.980] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:00.980] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:00.980] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:03.982] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:03.982] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:03.982] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:03.982] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:03.982] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:06.985] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:06.985] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:06.985] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:06.985] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:06.985] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:09.987] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:09.987] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:09.987] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:09.987] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:09.987] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:12.990] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:12.990] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:12.990] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:12.990] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:12.990] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:15.991] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:15.991] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:15.991] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:15.991] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:15.991] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:18.993] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:18.994] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:18.994] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:18.994] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:18.994] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:21.994] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:21.994] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:21.994] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:21.994] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:21.994] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:24.997] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:24.997] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:24.997] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:24.997] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:24.997] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:28.000] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:28.000] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:28.000] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:28.000] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:28.000] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:31.003] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:31.003] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:31.003] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:31.003] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:31.003] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:34.003] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:34.004] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:34.004] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:34.004] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:34.004] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:37.007] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:37.007] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:37.007] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:37.007] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:37.007] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:40.010] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:40.010] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:40.010] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:40.010] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:40.010] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:43.013] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:43.014] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:43.014] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:43.014] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:43.014] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:46.017] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:46.017] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:46.017] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:46.017] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:46.017] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:49.020] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:49.020] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:49.020] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:49.020] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:49.020] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:52.023] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:52.024] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:52.024] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:52.024] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:52.024] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:55.027] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:55.027] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:55.027] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:55.027] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:55.027] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:58.030] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:58.030] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:58.030] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:55:58.030] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:55:58.030] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:01.033] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:01.034] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:01.034] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:01.034] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:01.034] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:04.037] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:04.037] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:04.037] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:04.037] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:04.037] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:07.039] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:07.039] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:07.040] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:07.040] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:07.040] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:10.040] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:10.040] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:10.040] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:10.040] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:10.041] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:13.043] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:13.044] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:13.044] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:13.044] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:13.044] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:16.047] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:16.047] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:16.047] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:16.047] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:16.047] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:19.050] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:19.050] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:19.050] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:19.050] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:19.050] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:22.053] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:22.054] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:22.054] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:22.054] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:22.054] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:25.057] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:25.057] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:25.057] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:25.057] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:25.057] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:28.060] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:28.060] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:28.060] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:28.060] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:28.060] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:31.061] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:31.062] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:31.062] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:31.062] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:31.062] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:34.063] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:34.064] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:34.064] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:34.064] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:34.064] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:37.067] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:37.067] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:37.067] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:37.067] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:37.067] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:40.070] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:40.070] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:40.070] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:40.070] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:40.071] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:43.073] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:43.074] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:43.074] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:43.074] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:43.074] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:46.077] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:46.077] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:46.077] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:46.077] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:46.077] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:49.080] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:49.080] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:49.080] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:49.080] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:49.080] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:52.083] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:52.084] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:52.084] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:52.084] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:52.084] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:54.149] [114633] (discord.cpp:658): JS console: ["%c[RunningGameStore]","games",""]
+[2023-04-22 20:56:55.084] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:55.085] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:55.085] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:55.085] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:55.085] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:58.087] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:58.087] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:58.087] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:56:58.087] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:56:58.087] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:01.090] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:01.090] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:01.090] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:01.090] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:01.090] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:04.093] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:04.094] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:04.094] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:04.094] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:04.094] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:07.097] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:07.097] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:07.097] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:07.097] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:07.097] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:10.100] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:10.100] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:10.100] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:10.100] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:10.100] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:13.103] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:13.104] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:13.104] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:13.104] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:13.104] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:16.107] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:16.107] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:16.107] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:16.107] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:16.107] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:19.110] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:19.110] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:19.110] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:19.110] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:19.110] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:22.111] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:22.111] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:22.111] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:22.111] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:22.111] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:25.113] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:25.114] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:25.114] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:25.114] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:25.114] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:28.117] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:28.117] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:28.117] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:28.117] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:28.117] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:31.119] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:31.119] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:31.119] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:31.119] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:31.119] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:34.121] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:34.121] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:34.121] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:34.121] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:34.121] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:37.123] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:37.124] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:37.124] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:37.124] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:37.124] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:40.125] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:40.125] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:40.125] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:40.125] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:40.125] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:43.127] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:43.127] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:43.127] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:43.127] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:43.127] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:46.130] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:46.130] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:46.130] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:46.130] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:46.130] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:49.131] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:49.131] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:49.131] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:49.131] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:49.131] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:52.133] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:52.134] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:52.134] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:52.134] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:52.134] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:55.137] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:55.137] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:55.137] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:55.137] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:55.137] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:58.139] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:58.139] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:58.139] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:57:58.139] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:57:58.139] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:01.140] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:01.140] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:01.140] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:01.140] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:01.141] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:04.143] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:04.144] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:04.144] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:04.144] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:04.144] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:07.146] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:07.146] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:07.146] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:07.146] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:07.146] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:10.147] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:10.147] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:10.147] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:10.147] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:10.147] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:13.150] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:13.150] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:13.150] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:13.150] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:13.151] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:16.153] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:16.154] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:16.154] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:16.154] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:16.154] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:19.157] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:19.157] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:19.157] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:19.157] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:19.157] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:22.160] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:22.160] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:22.160] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:22.160] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:22.160] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:25.163] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:25.164] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:25.164] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:25.164] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:25.164] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:28.165] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:28.165] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:28.165] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:28.165] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:28.165] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:31.167] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:31.167] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:31.167] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:31.167] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:31.167] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:34.170] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:34.170] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:34.170] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:34.170] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:34.171] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:37.173] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:37.174] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:37.174] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:37.174] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:37.174] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:40.177] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:40.177] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:40.177] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:40.177] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:40.177] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:43.180] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:43.180] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:43.180] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:43.180] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:43.180] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:46.183] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:46.184] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:46.184] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:46.184] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:46.184] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:49.187] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:49.187] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:49.187] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:49.187] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:49.187] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:52.190] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:52.190] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:52.190] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:52.190] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:52.190] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:55.193] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:55.194] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:55.194] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:55.194] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:55.194] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:58.197] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:58.197] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:58.197] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:58:58.197] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:58:58.197] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:01.200] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:01.200] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:01.200] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:01.200] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:01.200] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:04.203] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:04.204] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:04.204] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:04.204] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:04.204] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:07.207] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:07.207] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:07.207] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:07.207] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:07.207] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:10.207] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:10.207] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:10.207] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:10.207] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:10.207] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:13.210] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:13.210] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:13.210] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:13.210] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:13.210] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:16.210] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:16.211] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:16.211] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:16.211] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:16.211] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:19.213] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:19.214] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:19.214] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:19.214] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:19.214] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:22.217] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:22.217] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:22.217] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:22.217] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:22.217] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:25.220] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:25.220] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:25.220] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:25.220] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:25.220] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:28.223] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:28.223] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:28.224] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:28.224] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:28.224] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:31.227] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:31.227] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:31.227] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:31.227] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:31.227] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:34.228] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:34.228] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:34.228] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:34.228] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:34.228] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:37.230] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:37.230] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:37.230] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:37.230] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:37.230] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:40.233] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:40.234] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:40.234] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:40.234] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:40.234] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:43.237] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:43.237] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:43.237] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:43.237] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:43.237] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:46.240] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:46.240] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:46.240] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:46.240] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:46.240] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:49.244] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:49.244] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:49.244] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:49.244] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:49.244] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:52.247] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:52.247] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:52.247] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:52.247] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:52.247] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:55.250] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:55.250] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:55.250] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:55.250] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:55.250] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:58.253] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:58.253] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:58.253] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 20:59:58.253] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 20:59:58.254] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:01.257] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:01.257] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:01.257] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:01.257] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:01.257] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:04.260] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:04.260] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:04.260] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:04.260] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:04.260] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:07.263] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:07.263] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:07.263] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:07.263] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:07.263] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:10.266] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:10.267] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:10.267] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:10.267] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:10.267] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:13.267] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:13.267] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:13.267] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:13.267] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:13.267] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:16.270] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:16.270] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:16.270] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:16.270] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:16.270] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:19.274] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:19.274] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:19.274] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:19.274] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:19.274] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:22.277] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:22.277] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:22.277] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:22.277] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:22.277] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:25.280] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:25.280] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:25.280] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:25.280] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:25.280] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:28.280] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:28.280] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:28.281] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:28.281] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:28.281] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:31.283] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:31.284] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:31.284] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:31.284] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:31.284] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:34.287] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:34.287] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:34.287] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:34.287] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:34.287] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:37.290] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:37.290] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:37.290] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:37.290] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:37.290] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:40.293] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:40.293] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:40.293] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:40.293] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:40.294] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:43.297] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:43.297] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:43.297] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:43.297] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:43.297] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:46.300] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:46.300] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:46.300] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:46.300] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:46.300] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:49.303] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:49.303] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:49.303] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:49.303] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:49.303] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:52.304] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:52.304] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:52.304] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:52.304] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:52.304] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:55.307] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:55.307] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:55.307] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:55.307] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:55.307] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:58.310] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:58.310] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:58.310] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:00:58.310] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:00:58.310] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:01.313] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:01.313] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:01.313] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:01.313] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:01.313] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:04.313] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:04.314] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:04.314] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:04.314] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:04.314] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:07.317] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:07.317] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:07.317] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:07.317] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:07.317] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:10.320] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:10.320] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:10.320] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:10.320] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:10.320] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:13.323] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:13.323] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:13.323] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:13.323] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:13.323] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:16.324] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:16.324] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:16.324] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:16.324] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:16.324] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:19.327] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:19.327] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:19.327] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:19.327] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:19.327] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:22.330] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:22.330] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:22.330] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:22.330] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:22.330] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:25.334] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:25.334] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:25.334] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:25.334] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:25.334] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:28.337] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:28.337] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:28.337] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:28.337] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:28.337] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:31.340] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:31.340] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:31.340] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:31.340] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:31.340] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:34.343] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:34.344] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:34.344] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:34.344] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:34.344] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:37.347] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:37.347] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:37.347] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:37.347] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:37.347] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:40.347] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:40.347] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:40.347] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:40.347] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:40.347] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:43.350] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:43.350] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:43.350] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:43.350] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:43.350] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:46.353] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:46.354] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:46.354] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:46.354] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:46.354] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:49.357] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:49.357] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:49.357] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:49.357] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:49.357] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:52.360] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:52.360] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:52.360] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:52.360] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:52.360] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:55.363] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:55.364] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:55.364] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:55.364] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:55.364] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:58.367] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:58.367] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:58.367] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:01:58.367] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:01:58.367] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:01.370] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:01.370] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:01.370] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:01.370] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:01.370] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:04.373] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:04.373] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:04.374] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:04.374] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:04.374] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:07.375] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:07.375] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:07.376] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:07.376] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:07.376] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:10.377] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:10.377] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:10.377] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:10.377] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:10.377] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:13.380] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:13.380] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:13.380] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:13.380] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:13.380] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:16.381] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:16.381] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:16.381] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:16.381] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:16.381] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:19.383] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:19.384] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:19.384] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:19.384] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:19.384] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:22.387] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:22.387] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:22.387] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:22.387] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:22.387] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:25.390] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:25.390] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:25.390] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:25.390] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:25.390] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:28.391] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:28.391] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:28.391] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:28.391] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:28.391] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:31.393] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:31.394] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:31.394] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:31.394] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:31.394] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:34.397] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:34.397] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:34.397] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:34.397] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:34.397] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:37.400] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:37.400] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:37.400] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:37.400] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:37.400] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:40.403] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:40.404] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:40.404] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:40.404] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:40.404] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:43.407] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:43.407] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:43.407] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:43.407] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:43.407] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:46.410] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:46.410] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:46.411] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:46.411] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:46.411] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:49.413] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:49.414] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:49.414] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:49.414] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:49.414] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:52.417] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:52.417] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:52.417] [114691] (device_info_linux.cc:78): GetDeviceName
+[2023-04-22 21:02:52.417] [114691] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-22 21:02:52.417] [114691] (device_info_linux.cc:78): GetDeviceName

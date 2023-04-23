@@ -1,0 +1,42 @@
+output DP-0
+off
+output DP-1
+off
+output DP-3
+off
+output DP-4
+off
+output DP-5
+off
+output DP-7
+off
+output DP-2
+crtc 1
+mode 3840x2160
+pos 3640x0
+rate 60.00
+x-prop-non_desktop 0
+output eDP-1-1
+crtc 4
+mode 3840x2160
+pos 7480x0
+rate 144.00
+x-prop-broadcast_rgb Automatic
+x-prop-colorspace Default
+x-prop-max_bpc 12
+x-prop-non_desktop 0
+x-prop-scaling_mode Full aspect
+output DP-6
+crtc 2
+mode 1920x1080
+pos 0x240
+rate 60.00
+rotate right
+x-prop-non_desktop 0
+output HDMI-0
+crtc 0
+mode 2560x1440
+pos 1080x720
+primary
+rate 143.91
+x-prop-non_desktop 0
